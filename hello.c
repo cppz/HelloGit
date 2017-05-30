@@ -1,8 +1,10 @@
-/* gcc のコンパイルテスト用 */
+/* gcc test */
 #include <stdio.h>
   int main(void) {
     printf("Hello, World!!\n");
-/* GitHub に push したデータを変更するテスト */
-    printf("Hello, gitHub!!\n")
+    /* git push test */
+    printf("git push test\n");
+    /* git branch test */
+    printf("git branch test\n");
   return 0;
   }
